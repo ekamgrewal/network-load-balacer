@@ -5,6 +5,19 @@ Network Load Balancing System using Java
 
 Load Balancer for cluster servers
 
+Demo: 
+
+<img width="960" alt="image" src="https://github.com/ekamgrewal/network-load-balacer/assets/72091301/4d3eed1a-4695-478d-bb19-83432d5c0bf0">
+
+<img width="960" alt="image" src="https://github.com/ekamgrewal/network-load-balacer/assets/72091301/4e734cb6-a597-4df2-b91d-ee22719c8676">
+
+<img width="960" alt="image" src="https://github.com/ekamgrewal/network-load-balacer/assets/72091301/80bac7b2-4f3d-4db1-9fe6-aef80594ade3">
+
+<img width="960" alt="image" src="https://github.com/ekamgrewal/network-load-balacer/assets/72091301/109380fb-3695-4309-b14f-0c34381f20ca">
+
+<img width="960" alt="image" src="https://github.com/ekamgrewal/network-load-balacer/assets/72091301/61c788d5-779b-4f40-8892-1fcf39bd2d26">
+
+
 ReadMe File:
 1.	Ensure that java 6 is available and java path is set in environment variable
 2.	Unzip the source code folder under the Load Balancing System and copy to the desktop
